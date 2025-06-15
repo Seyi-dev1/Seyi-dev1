@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Oluwaseyi 👋</h1>
 <p align="center">
-  Full-Stack Developer | JavaScript, Node.js, React, MongoDB | Fintech & SaaS Enthusiast
+  Full-Stack Web and Mobile Developer | JavaScript, Typescript, React, React-Native, Node.js, MongoDB | Fintech & SaaS Enthusiast
 </p>
 
 ---
