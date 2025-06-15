@@ -1,8 +1,8 @@
-<p align="center">
-  <div style="border-radius: 50%; background-color:red;" >
+<div style="display: flex; justify-content: center"; >
+  
   <img src="IMG-20230123-WA0001.jpg" alt="Seyi's photo" width="180" height="180" style="border-radius: 50%;" />
-  </div>
-</p>
+  
+</div>
 
 <h1 align="center">Hi, I'm Oluwaseyi 👋</h1>
 
