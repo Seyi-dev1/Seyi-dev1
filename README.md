@@ -1,4 +1,4 @@
-<div style="border-radius: 50%"; >
+<div style="overflow: hidden"; >
   
   <img src="IMG-20230123-WA0001.jpg" alt="Seyi's photo" width="180" style="border-radius: 10px;" />
   
