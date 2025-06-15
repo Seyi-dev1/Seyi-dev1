@@ -1,4 +1,6 @@
+<img src="IMG-20230123-WA0001.jpg" alt="Seyi's photo" width="200" style="border-radius: 50%;" />
 <h1 align="center">Hi, I'm Oluwaseyi 👋</h1>
+
 <p align="center">
   Full-Stack Web and Mobile Developer | JavaScript, Typescript, React, React-Native, Node.js, MongoDB | Fintech & SaaS Enthusiast
 </p>
