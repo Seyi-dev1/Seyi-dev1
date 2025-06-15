@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="IMG-20230123-WA0001.jpg" alt="Seyi's photo" width="180" style="border-radius: 50%;" />
+  <img src="IMG-20230123-WA0001.jpg" alt="Seyi's photo" width="180" height="180" style="border-radius: 50%;" />
 </p>
 
 <h1 align="center">Hi, I'm Oluwaseyi 👋</h1>
