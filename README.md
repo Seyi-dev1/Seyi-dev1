@@ -35,14 +35,14 @@
 
 <!-- Update these with your best repos -->
 🔗 [**Quizzical**](https://github.com/Seyi-dev1/Quzzical) — A trivia web app that allows individual and friends to quiz each other on different trivia topics built using react and the open trivia database.
-/n🔗 [**Regal Clothing**](https://github.com/Seyi-dev1/crown-clothing) — online e-commerce fashion store with authentication, state management, cart and checkout functionality.
-/n🔗 [**NASA Project**](https://github.com/Seyi-dev1/NASA-project) — A full stack web app that provides data about numerous NASA launch missions and allows you create and launch mock launches of your own.
-/n🔗 [**Wuild Protocol**](https://github.com/Seyi-dev1/wuild-protocol) — Mock up of the Guild Protocol Website. i basically built this to gain a deeper understanding of GSAP animations on the web.
+🔗 [**Regal Clothing**](https://github.com/Seyi-dev1/crown-clothing) — online e-commerce fashion store with authentication, state management, cart and checkout functionality.
+🔗 [**NASA Project**](https://github.com/Seyi-dev1/NASA-project) — A full stack web app that provides data about numerous NASA launch missions and allows you create and launch mock launches of your own.
+🔗 [**Wuild Protocol**](https://github.com/Seyi-dev1/wuild-protocol) — Mock up of the Guild Protocol Website. i basically built this to gain a deeper understanding of GSAP animations on the web.
 
 
 ---
 
-### 📈 GitHub Stats
+<!--### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Seyi-dev1&show_icons=true&theme=react&hide_title=true" />
