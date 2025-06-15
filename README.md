@@ -1,6 +1,6 @@
-<div style="display: flex; justify-content: center"; >
+<div style="border-radius: 50%"; >
   
-  <img src="IMG-20230123-WA0001.jpg" alt="Seyi's photo" width="180" height="180" style="border-radius: 50%;" />
+  <img src="IMG-20230123-WA0001.jpg" alt="Seyi's photo" width="180" style="border-radius: 50%;" />
   
 </div>
 
