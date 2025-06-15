@@ -42,6 +42,13 @@
 
 ---
 
+### 🤝 Let’s Connect
+
+- 🌐 [Portfolio Website](https://seyi-dev.vercel.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-link/)
+- 🐦 [Twitter/X](https://twitter.com/your-handle)
+- 📫 Email: samoluwaseyidev@gmailcom
+
 <!--### 📈 GitHub Stats
 
 <p align="center">
@@ -52,18 +59,11 @@
 
 ---
 
-### 🤝 Let’s Connect
 
-- 🌐 [Portfolio Website](https://seyi-dev.vercel.app/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link/)
-- 🐦 [Twitter/X](https://twitter.com/your-handle)
-- 📫 Email: samoluwaseyidev@gmailcom
 
 ---
 
-<p align="center">
-  🚀 Let’s build something great together!
-</p>
+
 
 <!--
 **Seyi-dev1/Seyi-dev1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
